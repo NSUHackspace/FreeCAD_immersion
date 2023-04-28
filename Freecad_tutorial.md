@@ -19,7 +19,7 @@
 -   Чтение чертежей
     [*https://www.youtube.com/watch?v=UaVqq4lhbzE*](https://www.youtube.com/watch?v=UaVqq4lhbzE)
 -   Эскиз и технический рисунок
-    [*https://www.youtube.com/watch?v=neHha8KLKcc*](https://www.youtube.com/watch?v=neHha8KLKcc)
+    [*https://www.youtube.com/watch?v=Hy0caf0pBfo*](https://www.youtube.com/watch?v=Hy0caf0pBfo)
 
 Основная же часть данного туториала будет посвящена быстрому погружению
 в работу с приложением для моделирования FreeCad.
@@ -51,7 +51,7 @@
 Инструменты моделирования FreeCad сгруппированы по верстакам
 (workbenches). Нужный верстак можно найти в разделе меню View \>
 Workbench. Несмотря на большое количество разнообразных верстаков, в
-первую очередь мы будем пользоваться только одним Part Design.
+первую очередь мы будем пользоваться только Part Design и Sketcher.
 
 Более подробно особенности интерфейса описаны в статье:
 
